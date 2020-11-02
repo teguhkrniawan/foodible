@@ -59,8 +59,8 @@ http://www.templatemo.com/tm-507-victory
                                 </div>
                             </div>
                             <div class="col-md-7">
-                                <h2>Bento</h2>
-                                <p class="description">Ga sempat bawa bekal? pilih food-list bento aja! perpaduan makanan indonesia yang dikemas ala-ala jepang</p>
+                                <h2 style="color: white;">Bento</h2>
+                                <p class="description" style="color: white;">Ga sempat bawa bekal? pilih food-list bento aja! perpaduan makanan indonesia yang dikemas ala-ala jepang</p>
                                 <div id="owl-breakfast" class="owl-carousel owl-theme">
                                     <div class="item col-md-12">
                                         <div class="food-item">
@@ -150,7 +150,7 @@ http://www.templatemo.com/tm-507-victory
                             </div>
                             <div class="col-md-7">
                                 <h2 style="color: white;">Chicken Club</h2>
-                                <p class="description">List menu yang didominasi lauk ayam, mood booster banget!</p>
+                                <p class="description" style="color: white;">List menu yang didominasi lauk ayam, mood booster banget!</p>
                                 <div id="owl-dinner" class="owl-carousel owl-theme">
                                     <div class="item col-md-12">
                                         <div class="food-item">
