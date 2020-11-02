@@ -39,8 +39,9 @@ http://www.templatemo.com/tm-507-victory
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1>Mooto Kami</h1>
-                    <p>Atur jadwal pengataran makananmu sesuka hati, hingga tak ada lagi makanan terbuang.</p>
+                    <h2 style="font-family: sans-serif; color: white;">Pesan Catering, Ga Pake Ribet</h2>
+                    <p>Atur kapan makananmu akan diantar, sesuaikan dengan menu favoritmu.</p>
+                    <p>Selamat tinggal menu tak diundang</p>
                 </div>
             </div>
         </div>
@@ -54,15 +55,16 @@ http://www.templatemo.com/tm-507-victory
                         <div class="row">
                             <div class="col-md-5">
                                 <div class="left-image">
-                                    <img src="img/breakfast_menu.jpg" alt="Breakfast">
+                                    <img src="img/bento/bento_icon.jpg" alt="Breakfast">
                                 </div>
                             </div>
                             <div class="col-md-7">
-                                <h2 style="color: #FFF;">Bento</h2>
+                                <h2>Bento</h2>
+                                <p class="description">Ga sempat bawa bekal? pilih food-list bento aja! perpaduan makanan indonesia yang dikemas ala-ala jepang</p>
                                 <div id="owl-breakfast" class="owl-carousel owl-theme">
                                     <div class="item col-md-12">
                                         <div class="food-item">
-                                            <img src="img/breakfast_item.jpg" alt="">
+                                            <img src="img/bento/menu1.jpg" alt="">
                                             <div class="price">11K</div>
                                             <div class="text-content">
                                                 <h5>Sosis + Omelet + Chicken + Nugget + Brokoli + Nasi</h5>
@@ -73,7 +75,7 @@ http://www.templatemo.com/tm-507-victory
                                     </div>
                                     <div class="item col-md-12">
                                         <div class="food-item">
-                                            <img src="img/lunch_item.jpg" alt="">
+                                            <img src="img/bento/menu2.jpg" alt="">
                                             <div class="price">14K</div>
                                             <div class="text-content">
                                                 <h5>Udang Goreng + Sosis + Seledri + Omelet + Nasi</h5>
@@ -84,7 +86,7 @@ http://www.templatemo.com/tm-507-victory
                                     </div>
                                     <div class="item col-md-12">
                                         <div class="food-item">
-                                            <img src="img/dinner_item.jpg" alt="">
+                                            <img src="img/bento/menu3.jpg" alt="">
                                             <div class="price">11K</div>
                                             <div class="text-content">
                                                 <h5>Chicken Katsu + Wortel + Buncis + Sayur Kol + Nasi</h5>
@@ -95,7 +97,7 @@ http://www.templatemo.com/tm-507-victory
                                     </div>
                                     <div class="item col-md-12">
                                         <div class="food-item">
-                                            <img src="img/dinner_item.jpg" alt="">
+                                            <img src="img/bento/menu4.jpg" alt="">
                                             <div class="price">12K</div>
                                             <div class="text-content">
                                                 <h5>Gurame Goreng + Omelet + Brokoli Seledri + Nasi.</h5>
@@ -106,7 +108,7 @@ http://www.templatemo.com/tm-507-victory
                                     </div>
                                     <div class="item col-md-12">
                                         <div class="food-item">
-                                            <img src="img/dinner_item.jpg" alt="">
+                                            <img src="img/bento/menu5.jpg" alt="">
                                             <div class="price">14K</div>
                                             <div class="text-content">
                                                 <h5>Daging Sapi Lada Hitam + Wortel + Telur + Nasi</h5>
@@ -117,7 +119,7 @@ http://www.templatemo.com/tm-507-victory
                                     </div>
                                     <div class="item col-md-12">
                                         <div class="food-item">
-                                            <img src="img/dinner_item.jpg" alt="">
+                                            <img src="img/bento/menu6.jpg" alt="">
                                             <div class="price">12K</div>
                                             <div class="text-content">
                                                 <h5>Nugget Ikan + Omelet + Sosis + Sayur Tauge + Nasi.</h5>
@@ -143,15 +145,16 @@ http://www.templatemo.com/tm-507-victory
                         <div class="row">
                             <div class="col-md-5">
                                 <div class="left-image">
-                                    <img src="img/dinner_menu.jpg" alt="">
+                                    <img src="img/bento/chicken_icon.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-md-7">
                                 <h2 style="color: white;">Chicken Club</h2>
+                                <p class="description">List menu yang didominasi lauk ayam, mood booster banget!</p>
                                 <div id="owl-dinner" class="owl-carousel owl-theme">
                                     <div class="item col-md-12">
                                         <div class="food-item">
-                                            <img src="img/breakfast_item.jpg" alt="">
+                                            <img src="img/bento/menu1.jpg" alt="">
                                             <div class="price">11K</div>
                                             <div class="text-content">
                                                 <h5>Sosis + Omelet + Chicken Nugget + Brokoli + Nasi</h5>
@@ -162,7 +165,7 @@ http://www.templatemo.com/tm-507-victory
                                     </div>
                                     <div class="item col-md-12">
                                         <div class="food-item">
-                                            <img src="img/breakfast_item.jpg" alt="">
+                                            <img src="img/bento/menu3.jpg" alt="">
                                             <div class="price">11K</div>
                                             <div class="text-content">
                                                 <h5>Chicken Katsu + Wortel + Buncis + Sayur Kol + Nasi</h5>
@@ -173,7 +176,7 @@ http://www.templatemo.com/tm-507-victory
                                     </div>
                                     <div class="item col-md-12">
                                         <div class="food-item">
-                                            <img src="img/breakfast_item.jpg" alt="">
+                                            <img src="img/bento/menu7.jpg" alt="">
                                             <div class="price">12K</div>
                                             <div class="text-content">
                                                 <h5>Ayam Lada Hitam + Jamur + Wortel + Timun + Nasi</h5>
@@ -184,7 +187,7 @@ http://www.templatemo.com/tm-507-victory
                                     </div>
                                     <div class="item col-md-12">
                                         <div class="food-item">
-                                            <img src="img/breakfast_item.jpg" alt="">
+                                            <img src="img/bento/menu8.jpg" alt="">
                                             <div class="price">11K</div>
                                             <div class="text-content">
                                                 <h5>Ayam Mentega + Sayur Buncis + Wortel + Nasi</h5>
@@ -195,7 +198,7 @@ http://www.templatemo.com/tm-507-victory
                                     </div>
                                     <div class="item col-md-12">
                                         <div class="food-item">
-                                            <img src="img/breakfast_item.jpg" alt="">
+                                            <img src="img/bento/menu9.jpg" alt="">
                                             <div class="price">11K</div>
                                             <div class="text-content">
                                                 <h5>Nasi Goreng + Ayam Panggang + Buncis Wortel</h5>
@@ -206,7 +209,7 @@ http://www.templatemo.com/tm-507-victory
                                     </div>
                                     <div class="item col-md-12">
                                         <div class="food-item">
-                                            <img src="img/breakfast_item.jpg" alt="">
+                                            <img src="img/bento/menu10.jpg" alt="">
                                             <div class="price">11K</div>
                                             <div class="text-content">
                                                 <h5>Ayam Bumbu Spesial + Bayam + Nasi Uduk</h5>

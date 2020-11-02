@@ -691,13 +691,12 @@ section.breakfast-menu .price {
 
 .breakfast-menu-content h2 {
 	margin-top: 0px;
-	margin-bottom: 30px;
-	padding-bottom: 8px;
-	font-family: 'Spectral', serif;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	font-family: 'Spectral', sans-serif;
 	font-size: 28px;
 	width: 94.5%;
-	border-bottom: 1px solid #d9dde5;
-	color: #121212;
+	color: #ffffff;
 }
 
 
@@ -770,15 +769,24 @@ section.dinner-menu .price {
 
 .dinner-menu-content h2 {
 	margin-top: 0px;
-	margin-bottom: 30px;
-	padding-bottom: 8px;
-	font-family: 'Spectral', serif;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	font-family: 'Spectral', sans-serif;
 	font-size: 28px;
 	width: 94.5%;
-	border-bottom: 1px solid #d9dde5;
-	color: #121212;
+	color: #ffffff;
 }
 
+.description {
+	color: white;
+	margin-top: 0px;
+	padding-bottom: 8px;
+	margin-bottom: 20px;
+	width: 94.5%;
+	font-family: 'Spectral', sans-serif;
+	font-size: 12pt;
+	border-bottom: solid 1px #FFF;
+}
 
 
 .owl-pagination {
