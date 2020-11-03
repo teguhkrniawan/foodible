@@ -39,7 +39,7 @@ http://www.templatemo.com/tm-507-victory
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h2 style="font-family: sans-serif; color: white;">Pesan Catering, Ga Pake Ribet</h2>
+                    <h2 style="font-family: sans-serif; color: white;">Pesan Catering, Ga Ribet, Gratis Ongkir</h2>
                     <p>Atur kapan makananmu akan diantar, sesuaikan dengan menu favoritmu.</p>
                     <p>Selamat tinggal menu tak diundang</p>
                 </div>
@@ -69,7 +69,7 @@ http://www.templatemo.com/tm-507-victory
                                             <div class="text-content">
                                                 <h5>Sosis + Omelet + Chicken + Nugget + Brokoli + Nasi</h5>
                                                 <p>03 November 2020</p>
-                                                <a href="https://wasap.at/g2Hibd" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
+                                                <a href="https://wasap.at/EinNlw" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -80,7 +80,7 @@ http://www.templatemo.com/tm-507-victory
                                             <div class="text-content">
                                                 <h5>Udang Goreng + Sosis + Seledri + Omelet + Nasi</h5>
                                                 <p>04 November 2020</p>
-                                                <a href="https://wasap.at/g2Hibd" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
+                                                <a href="https://wasap.at/EinNlw" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -91,7 +91,7 @@ http://www.templatemo.com/tm-507-victory
                                             <div class="text-content">
                                                 <h5>Chicken Katsu + Wortel + Buncis + Sayur Kol + Nasi</h5>
                                                 <p>05 November 2020</p>
-                                                <a href="https://wasap.at/g2Hibd" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
+                                                <a href="https://wasap.at/EinNlw" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -102,7 +102,7 @@ http://www.templatemo.com/tm-507-victory
                                             <div class="text-content">
                                                 <h5>Gurame Goreng + Omelet + Brokoli Seledri + Nasi.</h5>
                                                 <p>06 November 2020</p>
-                                                <a href="https://wasap.at/g2Hibd" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
+                                                <a href="https://wasap.at/EinNlw" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -113,7 +113,7 @@ http://www.templatemo.com/tm-507-victory
                                             <div class="text-content">
                                                 <h5>Daging Sapi Lada Hitam + Wortel + Telur + Nasi</h5>
                                                 <p>07 November 2020</p>
-                                                <a href="https://wasap.at/g2Hibd" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
+                                                <a href="https://wasap.at/EinNlw" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -124,7 +124,7 @@ http://www.templatemo.com/tm-507-victory
                                             <div class="text-content">
                                                 <h5>Nugget Ikan + Omelet + Sosis + Sayur Tauge + Nasi.</h5>
                                                 <p>08 November 2020</p>
-                                                <a href="https://wasap.at/g2Hibd" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
+                                                <a href="https://wasap.at/EinNlw" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -159,7 +159,7 @@ http://www.templatemo.com/tm-507-victory
                                             <div class="text-content">
                                                 <h5>Sosis + Omelet + Chicken Nugget + Brokoli + Nasi</h5>
                                                 <p>03 November 2020</p>
-                                                <a href="https://wasap.at/g2Hibd" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
+                                                <a href="https://wasap.at/EinNlw" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -170,7 +170,7 @@ http://www.templatemo.com/tm-507-victory
                                             <div class="text-content">
                                                 <h5>Chicken Katsu + Wortel + Buncis + Sayur Kol + Nasi</h5>
                                                 <p>04 November 2020</p>
-                                                <a href="https://wasap.at/g2Hibd" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
+                                                <a href="https://wasap.at/EinNlw" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -181,7 +181,7 @@ http://www.templatemo.com/tm-507-victory
                                             <div class="text-content">
                                                 <h5>Ayam Lada Hitam + Jamur + Wortel + Timun + Nasi</h5>
                                                 <p>05 November 2020</p>
-                                                <a href="https://wasap.at/g2Hibd" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
+                                                <a href="https://wasap.at/EinNlw" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -192,7 +192,7 @@ http://www.templatemo.com/tm-507-victory
                                             <div class="text-content">
                                                 <h5>Ayam Mentega + Sayur Buncis + Wortel + Nasi</h5>
                                                 <p>06 November 2020</p>
-                                                <a href="https://wasap.at/g2Hibd" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
+                                                <a href="https://wasap.at/EinNlw" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -203,7 +203,7 @@ http://www.templatemo.com/tm-507-victory
                                             <div class="text-content">
                                                 <h5>Nasi Goreng + Ayam Panggang + Buncis Wortel</h5>
                                                 <p>07 November 2020</p>
-                                                <a href="https://wasap.at/g2Hibd" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
+                                                <a href="https://wasap.at/EinNlw" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -214,7 +214,7 @@ http://www.templatemo.com/tm-507-victory
                                             <div class="text-content">
                                                 <h5>Ayam Bumbu Spesial + Bayam + Nasi Uduk</h5>
                                                 <p>08 November 2020</p>
-                                                <a href="https://wasap.at/g2Hibd" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
+                                                <a href="https://wasap.at/EinNlw" class="btn" style="background-color: #f2745f; color: #FFF;">Pesan</a>
                                             </div>
                                         </div>
                                     </div>
